@@ -20,5 +20,4 @@ The player controls a character, avoids enemies, collects bonuses, and tries to 
 - OOP-style game structure (basic)
 
 ---
-
-## 📁 Project Structure
+<img width="826" height="477" alt="image" src="https://github.com/user-attachments/assets/57bee31a-3d70-4b7c-bb52-23358740b8bc" />
